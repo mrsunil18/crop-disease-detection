@@ -1,4 +1,4 @@
-tensorflow>=2.15
 streamlit
-pillow
+tensorflow
 numpy
+Pillow
